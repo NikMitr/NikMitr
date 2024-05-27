@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/mathematical statistics-grey?style=for-the-badge&logo=&logoColor="/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" width="200" height="200" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" width="125" height="125" />
 </div>
 
 ------------------------------
