@@ -32,7 +32,12 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" width="200" height="200" />
 </div>
 
+<div align="center">
+  ↓ Обратная связь ↓
+</div>
 
+<p>
+  
 <div id="badges" align="center">
     <a href="https://t.me/MrMitru17" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram" />
