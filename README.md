@@ -26,29 +26,34 @@
   <h1>Аналитик Данных / Data Analyst</h1>
 </div>
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="200" height="200" />
+  <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Keyboard" width="200" height="200" />
 </div>
 
 ------------------------------
 
-
-
-
-
 Я хочу присоединиться к Академии Аналитиков Авито, чтобы углубить свои знания в анализе данных и получить практический опыт. Знаю, что в Академии высокий уровень образования, топовый преподавательский состав, современный стек, интересные и сложные проекты, поэтому убежден, что именно здесь я смогу развить свои аналитические навыки. У меня всегда был интерес и склонность к математике, и я уверен, что мое увлечение анализом данных и цифрами поможет мне успешно пройти обучение в Академии. Меня вдохновляют миссия и ценности Авито, то как компания развивается, и я с нетерпением жду возможности учиться у профессионалов в этой области, стать частью команды, принимающей решения на основе данных. Я думаю, что обучение и опыт, полученные в Академии, помогут мне не только профессионально развиваться, но и позволят внести свой вклад в дальнейший успех Авито на рынке.
 
-* 🌍  I'm based in Россия
-* ✉️ Связаться со мной можно по адресу [nik\_mitr@mail.ru.](mailto:nik_mitr@mail.ru)[](mailto:nik_mitr@mail.ru)
 
-### Навыки
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+<h3 align="left">Инструменты и навыки: <div>
 
-### Социальные сети
 
-<p align="left"> <a href="https://discord.com/users/nikmit17" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает -color-scheme: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(предпочитает -color-scheme: светлый)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> </p>
+<img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=Python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=Git&logoColor=#FF4500"/>
+<img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/Redash-grey?style=for-the-badge&logo=Redash&logoColor=#FF7964"/>
+<img src="https://img.shields.io/badge/Tableau-grey?style=for-the-badge&logo=Tableau&logoColor=blue"/>
+<img src="https://img.shields.io/badge/api-grey?style=for-the-badge&logo=&logoColor="/>
+<img src="https://img.shields.io/badge/microsoft excel-grey?style=for-the-badge&logo=Microsoft Excel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/mathematical statistics-grey?style=for-the-badge&logo=&logoColor="/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" width="200" height="200" />
+</div>
+
+
+
+
+
 
