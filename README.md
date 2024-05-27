@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Аналитик Данных / Data Analyst</h1>
+  <h1>Аналитик Данных📈</h1>
 </div>
 
 <div align="center">
