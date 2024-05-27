@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Привет! Меня зовут Николай</h1>
 </div>
+
+[![Email](https://img.shields.io/badge/Email-nik_mitr@mail.ru-green)](mailto:nik_mitr@mail.ru)
+
 <!--
 **NikMitr/NikMitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
