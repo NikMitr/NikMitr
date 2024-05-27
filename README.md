@@ -1,5 +1,6 @@
-##               Привет! Меня зовут Николай.
-
+<div align="center">
+  <h1>Привет! Меня зовут Николай</h1>
+</div>
 <!--
 **NikMitr/NikMitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
