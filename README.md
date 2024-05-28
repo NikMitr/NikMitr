@@ -43,11 +43,13 @@
 
 ------------------------------
 
-### Мои проекты:
+#### Мои проекты:
 
 |Название проекта|Описание проекта|
 |---|---|
 |[mobile_games_project](https://github.com/NikMitr/mobile_games_project/tree/main)|Написана функция для расчета Retention Rate. Анализ A/B тестирования. Определен набор метрик для тематического события|
+|[project_e_commerce](https://github.com/NikMitr/project_e_commerce)|Анализа покупок пользователей. Когортный анализ. RFM - сегментация|
+
 
 <div align="center">
   ↓ Обратная связь ↓
