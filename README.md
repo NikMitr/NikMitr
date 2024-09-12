@@ -54,7 +54,7 @@
 |Название проекта|Описание проекта|
 |---|---|
 |[Дашборд для HeadHunter](https://public.tableau.com/app/profile/nikolay.mitrushchenkov/viz/Overviewofthemainmetrics/HH)|Обзор основных метрик|
-|[Дашборд для гостиничного бизнеса](https://public.tableau.com/app/profile/nikolay.mitrushchenkov/viz/HospitalityOverview_17121661833720/Dashboard1)|Основные метрики гостиничного бизнеса|
+|[Hospitality Overview](https://public.tableau.com/app/profile/nikolay.mitrushchenkov/viz/HospitalityOverview_17121661833720/Dashboard1)|Основные метрики гостиничного бизнеса|
 
 <div align="center">
   ↓ Обратная связь ↓
