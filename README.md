@@ -44,7 +44,7 @@ Git: Работал над совместными проектами через 
 |Karpov.Courses "Аналитик данных"|Python, Git, SQL, Теория вероятностей, Статистика, Визуализация, Развитие продукта, Airflow, Проекты|[сертификат](https://lab.karpov.courses/certificate/52029072-2447-4c5a-b30d-460788c2c89f/)|
 
 <div align="center">
-  ↓ Обратная связь ↓
+   Обратная связь 
 
 <div id="badges" align="center">
     <a href="https://t.me/MrMitru17" target="_blank">
