@@ -2,7 +2,9 @@
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Keyboard" width="50" height="50" />
 </div>
 
-<div id="badges" align="left">
+<div align="left">
+  <span>Обратная связь:</span>
+  <div id="badges">
     <a href="https://t.me/MrMitru17" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
@@ -18,6 +20,7 @@
     <a href="https://e.mail.ru/compose/?to=nik_mitr@mail.ru" target="_blank">
       <img src="https://github.com/NikMitr/NikMitr/assets/170803850/f06ea629-2626-467b-acee-1f803adbef99" width="40" height="40" alt="Mail"/>
     </a>
+  </div>
 </div>
 
 <div align="left">
