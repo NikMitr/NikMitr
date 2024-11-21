@@ -55,8 +55,7 @@ Git: Работал над совместными проектами через 
 
 #### Курсы:
 
-|Логотип|Название курса|Содержание курса|Ссылка на сертификат|
+|Логотип курса|Название курса|Содержание курса|Ссылка на сертификат|
 |------------------------------|------------------------------|----|-----------------------------------|
-|<img src="https://github.com/user-attachments/assets/dd3e0f5c-2db5-474d-a599-d1cb6bd4c2ea" alt="Karpov.Courses" width="50"/>|Karpov.Courses "Аналитик данных"|В процессе обучения я освоил Python, Git, SQL, теорию вероятностей и статистику. Также изучил визуализацию данных, развитие продукта и работу с Airflow. Практические проекты позволили мне применить полученные знания на практике, что подготовило меня к карьере в аналитике данных.|[сертификат](https://lab.karpov.courses/certificate/52029072-2447-4c5a-b30d-460788c2c89f/)|
-
+|[<img src="https://github.com/user-attachments/assets/dd3e0f5c-2db5-474d-a599-d1cb6bd4c2ea" alt="Karpov.Courses" width="50"/>](https://karpov.courses/analytics?utm_source=yandex&utm_medium=cpc&utm_campaign=all_all_yandex_cpc_search_all_worldwide_brand_traficacademy_108080622&utm_content=adg_5412767450|ad_15905935053|ph_50801240717|key_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D1%80%D0%BF%D0%BE%D0%B2|dev_desktop|pst_premium_1|rgnid_10716_%D0%91%D0%B0%D0%BB%D0%B0%D1%88%D0%B8%D1%85%D0%B0|placement_none|creative_{creative_name}&utm_term=%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%B0%D1%80%D0%BF%D0%BE%D0%B2&yclid=14733495690039656447)|Karpov.Courses "Аналитик данных"|В процессе обучения я освоил Python, Git, SQL, теорию вероятностей и статистику. Также изучил визуализацию данных, развитие продукта и работу с Airflow. Практические проекты позволили мне применить полученные знания на практике, что подготовило меня к карьере в аналитике данных.|[сертификат](https://lab.karpov.courses/certificate/52029072-2447-4c5a-b30d-460788c2c89f/)|
 
