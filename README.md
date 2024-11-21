@@ -51,7 +51,7 @@ Git: Работал над совместными проектами через 
 
 |Название проекта|Описание проекта|
 |---|---|
-|[mobile_games_project](https://github.com/NikMitr/mobile_games_project/tree/main)|Функция для расчета Retention Rate. Анализ A/B тестирования. Определен набор метрик для тематического события|
+|[Проект мобильные игры](https://github.com/NikMitr/mobile_games_project/tree/main)|Функция для расчета Retention Rate. Анализ A/B тестирования. Определен набор метрик для тематического события|
 |[project_e_commerce](https://github.com/NikMitr/project_e_commerce)|Анализа покупок пользователей. Когортный анализ. RFM - сегментация|
 |[Дашборд для HeadHunter](https://public.tableau.com/app/profile/nikolay.mitrushchenkov/viz/Overviewofthemainmetrics/HH)|Обзор основных метрик|
 |[Hospitality Overview](https://public.tableau.com/app/profile/nikolay.mitrushchenkov/viz/HospitalityOverview_17121661833720/Dashboard1)|Основные метрики гостиничного бизнеса|
