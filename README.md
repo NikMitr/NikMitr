@@ -2,9 +2,11 @@
   <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png?raw=true" alt="Keyboard" width="50" height="50" />
 </div>
 
-<div align="left">
-  <span>Обратная связь:</span>
-  <div id="badges">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div align="left">
+    <h1>Николай Митрущенков</h1>
+  </div>
+  <div id="badges" align="right">
     <a href="https://t.me/MrMitru17" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
     </a>
@@ -23,9 +25,6 @@
   </div>
 </div>
 
-<div align="left">
-  <h1> Николай Митрущенков</h1>
-</div>
 
 📈 Аналитик Данных
 
